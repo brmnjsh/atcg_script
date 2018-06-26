@@ -4,7 +4,7 @@
 # Last Modified: June 27, 2018
 # Created by collective effors of Alex Chan and Josh Burman
 # Any questions, contact wy.alex.chan@gmail.com or
-# refer to github ()
+# refer to github - https://github.com/brmnjsh/atcg_script)
 # for any request, changes, etc
 
 # This script is designed to take source fastq files and modify their file name and header lines with
