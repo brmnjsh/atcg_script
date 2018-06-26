@@ -3,12 +3,11 @@
 # Created: June 26, 2018
 # Last Modified: June 27, 2018
 # Created by collective effors of Alex Chan and Josh Burman
-# Any questions, contact wy.alex.chan@gmail.com or
+# Contact: wy.alex.chan@gmail.com or
 # refer to github - https://github.com/brmnjsh/atcg_script)
-# for any request, changes, etc
 
 # This script is designed to take source fastq files and modify their file name and header lines with
-# 6 character unique ATCG combinations, placing the reuslts into a new (otherwise) duplicate files.
+# 6 character unique ATCG combinations, placing the reuslts into new, otherwise duplicate files.
 # Both the file name and header lines need to have the same combination
 # and the file pair (R1 and R2) need to share this combination
 # IMPORTANT - no file pair can share their combination with another file pair
